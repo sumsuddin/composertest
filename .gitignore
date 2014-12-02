@@ -1,0 +1,10 @@
+/.idea
+/vendor
+/node_modules
+/bower_components
+.env
+.DS_Store
+Thumbs.db
+composer.phar
+/public/css/vendor.css
+/public/js/vendor.js
